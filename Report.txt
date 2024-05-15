@@ -1,0 +1,44 @@
+
+OBJECTIVE
+Owner of Madhav Store wants us to help them to create a dashboard to track and analyze their online sales across India
+
+Analyzed E-Commerce sales data created Interactive Dashboard Using Power BI.
+
+Requirement Gathering
+ Monitor total sales and trends over time.
+ Analyze sales performance by region/state.
+ Identify top-selling products.
+
+Data Sourcing and Preparation
+ Sales transaction data, product catalog, details ,customer data , orders data
+
+Data Import and Transformation:
+ Import data from the identified sources into Power BI.
+ Use Power Query for cleaning and transforming the data.
+ 
+Dashboard Design
+
+Performance Optimization
+ Optimize DAX queries for better performance.
+ Use aggregations and summarize large datasets where possible.
+ Schedule data refreshes to keep the dashboard updated.
+
+Visualizations:
+ Sales Overview:
+ Profit by month:
+ Profit by Category:
+ Sales by Avg of values:
+ Sales by State:
+ Customer Insights:
+ Sales Channels and Payment Methods:
+
+
+
+
+Project learnings
+Created interactive dashboard to track and analyze online sales data 
+Used complex parameters to drill down in work sheet and customization using filter and slicers
+Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations 
+Used different types of customizes visualization ( Bar chart, Donut chart, Pie chart, clustered bar chart, scatter chart, line chart, area chart, map, slicer, etc)
+
+
